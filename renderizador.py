@@ -99,6 +99,7 @@ class Renderizador:
             out.append((x, y))
         return out
 
+
     def _draw_line(self, surface, p1, p2, cor):
         """Desenha linha entre dois pontos na tela (Bresenham 3D)."""
         pygame.draw.line(surface, cor, p1, p2, 1)
