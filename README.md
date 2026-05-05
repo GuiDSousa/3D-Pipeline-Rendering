@@ -73,14 +73,6 @@ Problemas comuns
 - Erro "pip não é reconhecido": execute `python -m pip ...` ou crie/ative um virtualenv.
 - Erros de instalação do Pygame: verifique compatibilidade do Python (usar 3.10/3.11 geralmente evita builds locais).
 
-Sugestões futuras (opcional)
-- Adicionar controles de câmera (teclado + mouse).
-- Implementar rasterização de faces com Z-buffer em software.
-- Exportar imagens/framebuffers.
 
 Licença
 - Use livremente para fins acadêmicos. Cite o autor original deste trabalho quando reutilizar o código.
-
----
-
-Se quiser, crio também um `run.bat` para iniciar por duplo-clique ou um `README_pt_BR.md` com mais imagens e exemplos de saída.
